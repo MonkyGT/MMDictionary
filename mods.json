@@ -12,27 +12,15 @@
         "download": "https://github.com/The-Graze/Grate/archive/refs/heads/master.zip"
     },
     {
-        "name": "GorillaShirts",
+        "name": "GorillaComputer",
         "author": "Developer9998",
         "filenames": [
-            "GorillaShirts.dll",
-            "shirtmod.dll"
+            "GorillaComputer.dll"
         ],
         "keyword": "GorillaShirts",
         "type": "Mod",
-        "repo": "developer9998/GorillaShirts",
-        "download": "https://github.com/developer9998/GorillaShirts/archive/refs/heads/master.zip"
-    },
-    {
-        "name": "BepInEx",
-        "author": "BepInEx",
-        "filenames": [
-            "uhh... uhh... .wav"
-        ],
-        "keyword": "BepInEx",
-        "type": "Library",
-        "repo": "BepInEx/BepInEx",
-        "download": "https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2"
+        "repo": "developer9998/GorillaComputer",
+        "download": "https://github.com/developer9998/GorillaComputer/archive/refs/heads/master.zip"
     },
     {
         "name": "Utilla",
