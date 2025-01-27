@@ -1,5 +1,29 @@
 [
     {
+        "name": "Grate",
+        "author": "The-Graze",
+        "filenames": [
+            "Grate.dll",
+            "grate.dll"
+        ],
+        "keyword": "Grate",
+        "type": "Mod",
+        "repo": "The-Graze/Graze",
+        "download": "https://github.com/The-Graze/Grate/archive/refs/heads/master.zip"
+    },
+    {
+        "name": "GorillaShirts",
+        "author": "Developer9998",
+        "filenames": [
+            "GorillaShirts.dll",
+            "shirtmod.dll"
+        ],
+        "keyword": "GorillaShirts",
+        "type": "Mod",
+        "repo": "developer9998/GirllaShirts",
+        "download": "https://github.com/developer9998/GirllaShirts/archive/refs/heads/master.zip"
+    },
+    {
         "name": "BepInEx",
         "author": "BepInEx",
         "filenames": [
@@ -31,27 +55,4 @@
         "type": "Library",
         "repo": "Loafiat/Newtilla",
         "download": "https://github.com/Loafiat/Newtilla/releases/download/1.1.0/Newtilla.dll"
-    },
-    {
-        "name": "Bepinject",
-        "author": "Auros",
-        "filenames": [
-            "Bepinject.dll"
-        ],
-        "keyword": "Bepinject",
-        "type": "Library",
-        "repo": "Auros/Bepinject",
-        "download": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Bepinject-Auros.zip"
-    },
-    {
-        "name": "Extenject",
-        "author": "Mathijs-Bakker",
-        "filenames": [
-            "Extenject.dll"
-        ],
-        "keyword": "Extenject",
-        "type": "Library",
-        "repo": "Mathijs-Bakker/Extenject",
-        "download": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
-    },
-]
+    }
