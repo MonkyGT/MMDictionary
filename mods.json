@@ -12,10 +12,10 @@
         "download": "https://github.com/The-Graze/Grate/releases/latest/download/Grate.dll"
     },
     {
-        "name": "GorillaComputer",
+        "name": "GorillaShirts",
         "author": "Developer9998",
         "filenames": [
-            "GorillaComputer.dll"
+            "GorillaShirts.dll"
         ],
         "keyword": "GorillaShirts",
         "type": "Mod",
