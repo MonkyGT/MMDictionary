@@ -9,7 +9,7 @@
         "keyword": "Grate",
         "type": "Mod",
         "repo": "The-Graze/Graze",
-        "download": "https://github.com/The-Graze/Grate/archive/refs/heads/master.zip"
+        "download": "https://github.com/The-Graze/Grate/releases/latest/download/Grate.dll"
     },
     {
         "name": "GorillaComputer",
@@ -19,8 +19,8 @@
         ],
         "keyword": "GorillaShirts",
         "type": "Mod",
-        "repo": "developer9998/GorillaComputer",
-        "download": "https://github.com/developer9998/GorillaComputer/archive/refs/heads/master.zip"
+        "repo": "developer9998/GorillaShirts",
+        "download": "https://github.com/developer9998/GorillaShirts/releases/latest/download/GorillaShirts.dll"
     },
     {
         "name": "Utilla",
@@ -31,7 +31,7 @@
         "keyword": "Utilla",
         "type": "Library",
         "repo": "developer9998/Utilla",
-        "download": "https://github.com/developer9998/Utilla/archive/refs/heads/master.zip"
+        "download": "https://github.com/developer9998/Utilla/releases/latest/download/Utilla.dll"
     },
     {
         "name": "Newtilla",
@@ -42,5 +42,5 @@
         "keyword": "Newtilla",
         "type": "Library",
         "repo": "Loafiat/Newtilla",
-        "download": "https://github.com/Loafiat/Newtilla/releases/download/1.1.0/Newtilla.dll"
+        "download": "https://github.com/Loafiat/Newtilla/releases/latest/download/Newtilla.dll"
     }
